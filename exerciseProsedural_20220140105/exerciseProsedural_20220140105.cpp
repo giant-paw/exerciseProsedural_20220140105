@@ -20,7 +20,7 @@ string status1(student mahasiswa[], double rata, int nil) {
 }
 
 int main() {
-	const int jumlah_mahasiswa = 5;
+	const int jumlah_mahasiswa = 20;
 	student mahasiswa[jumlah_mahasiswa];
 	int i;
 	double status;
